@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Aisha Alhamwi
 
-<!--
-**aisha-alhamwi/aisha-alhamwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**
 
-Here are some ideas to get you started:
+💻 I am a Software Engineering student interested in programming, software development, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Technologies
+
+- ☕ Java
+- 💻 C++
+- 🌐 HTML
+- 🎨 CSS
+- 🟨 JavaScript
+- 🗄️ SQL
+
+## 📚 Currently Learning
+
+- Software Engineering
+- Web Development
+- Databases
+- Cybersecurity
+- Cryptography
+
+## 🎯 My Goals
+
+- Improve my programming skills
+- Build real-world projects
+- Learn new technologies
+- Create a strong GitHub portfolio
+- Contribute to open-source projects
+
+## 🚀 Projects
+
+Here I share my university projects, programming exercises, and personal projects.
+
+## 📫 Connect With Me
+
+- GitHub: [Aisha Alhamwi](https://github.com/)
+
+---
+
+⭐ Thanks for visiting my profile!
